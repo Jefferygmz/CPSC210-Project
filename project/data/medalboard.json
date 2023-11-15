@@ -1,0 +1,53 @@
+{
+     "Boards": [
+          {"PlayerList": [
+               {
+                    "bronzeCount": 0,
+                    "silverCount": 0,
+                    "name": "jeff",
+                    "goldCount": 1,
+                    "Team": "china",
+                    "id": 1
+               },
+               {
+                    "bronzeCount": 1,
+                    "silverCount": 0,
+                    "name": "frank",
+                    "goldCount": 0,
+                    "Team": "france",
+                    "id": 2
+               }
+          ]},
+          {"TeamList": [
+               {
+                    "TeamMembers": [{
+                         "bronzeCount": 0,
+                         "silverCount": 0,
+                         "name": "jeff",
+                         "goldCount": 1,
+                         "Team": "china",
+                         "id": 1
+                    }],
+                    "TeamGoldCount": 0,
+                    "TeamName": "china",
+                    "TeamSilverCount": 0,
+                    "TeamBronzeCount": 0
+               },
+               {
+                    "TeamMembers": [{
+                         "bronzeCount": 1,
+                         "silverCount": 0,
+                         "name": "frank",
+                         "goldCount": 0,
+                         "Team": "france",
+                         "id": 2
+                    }],
+                    "TeamGoldCount": 0,
+                    "TeamName": "france",
+                    "TeamSilverCount": 0,
+                    "TeamBronzeCount": 0
+               }
+          ]}
+     ],
+     "name": "asdf"
+}

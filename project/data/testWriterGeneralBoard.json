@@ -1,0 +1,71 @@
+{
+     "Boards": [
+          {"PlayerList": [
+               {
+                    "bronzeCount": 0,
+                    "silverCount": 1,
+                    "name": "Jack",
+                    "goldCount": 1,
+                    "Team": "France",
+                    "id": 7
+               },
+               {
+                    "bronzeCount": 0,
+                    "silverCount": 1,
+                    "name": "Frank",
+                    "goldCount": 0,
+                    "Team": "France",
+                    "id": 8
+               },
+               {
+                    "bronzeCount": 1,
+                    "silverCount": 0,
+                    "name": "Tim",
+                    "goldCount": 0,
+                    "Team": "Japan",
+                    "id": 9
+               }
+          ]},
+          {"TeamList": [
+               {
+                    "TeamMembers": [
+                         {
+                              "bronzeCount": 0,
+                              "silverCount": 1,
+                              "name": "Jack",
+                              "goldCount": 1,
+                              "Team": "France",
+                              "id": 7
+                         },
+                         {
+                              "bronzeCount": 0,
+                              "silverCount": 1,
+                              "name": "Frank",
+                              "goldCount": 0,
+                              "Team": "France",
+                              "id": 8
+                         }
+                    ],
+                    "TeamGoldCount": 1,
+                    "TeamName": "France",
+                    "TeamSilverCount": 2,
+                    "TeamBronzeCount": 0
+               },
+               {
+                    "TeamMembers": [{
+                         "bronzeCount": 1,
+                         "silverCount": 0,
+                         "name": "Tim",
+                         "goldCount": 0,
+                         "Team": "Japan",
+                         "id": 9
+                    }],
+                    "TeamGoldCount": 0,
+                    "TeamName": "Japan",
+                    "TeamSilverCount": 0,
+                    "TeamBronzeCount": 1
+               }
+          ]}
+     ],
+     "name": "New Board"
+}
